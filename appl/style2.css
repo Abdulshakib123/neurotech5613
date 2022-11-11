@@ -1,0 +1,119 @@
+.body{
+
+
+
+  background:rgb(214, 214, 214);}
+.min{
+
+background:#8bff8b;
+  padding:25px;
+}
+
+
+
+.max{
+  color:white;
+  background: #8bff8b;
+}
+.max img{
+
+  height:25%;
+
+  margin-top: 20px;
+}
+.max h4{
+
+ font-size: 15px;
+text-align: end;
+}
+
+
+.max2{
+
+  background: #8bff8b;
+  color: white;
+}
+.max2 h1{
+  font-size: 55px;
+}
+.max2 img{
+    height:400px;
+    margin-left: 150px;
+    margin-top: -230px;
+    
+      
+}
+.line{
+  background: white;
+  height:2px;
+}
+
+
+
+.max3{
+  background: #8bff8b;
+  color: white;
+}
+.max3 p{
+  font-family: sans-serif;
+  font-size: 120%;
+}
+.max3 img{
+
+  height:200px;
+  width:520px;
+  margin-left: 523px;
+margin-top: -45px;
+}
+
+.greyphp{
+  background: rgb(214, 214, 214);
+  height:500px;
+}
+.greyphp h1{
+  font-family: Helvetic;
+  font-size:250%;
+}
+.greyphp p{
+font-size:18px;
+}
+
+
+.greyphp img{
+  height:350px;
+  width:550px;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+.lineblck{
+  background: black;
+  height:2px;
+ width:100%;
+ margin-top: 50px;
+}
+
+.grey2{
+
+
+  background:rgb(214, 214, 214);
+  height:100%
+}
+.grey2 h1{
+
+
+  font-family: helvetic;
+}
+.grey2 p{
+
+
+  font-family: arial;
+  font-size: 20px;
+}
+
+
+
+.grey3{
+
+  background: rgb(214, 214, 214);
+  height:100%;
+}

@@ -1,0 +1,389 @@
+.front{
+      background:#e6a2a4;
+      color:white;
+}
+
+.front img{
+   height:20%;
+   margin-left:-10px;
+   margin-top:20px;
+
+}
+.front ul{
+
+   margin-left: 600px;
+   margin-top: 30px;
+   
+}
+
+.front ul li a{
+
+  color:white;
+   
+}
+.brain-part{
+   background: #e6a2a4;
+   color:white;
+
+}
+.brain-part img{
+   height: 250px;
+   margin-left: 70px;
+   margin-top: -50px;
+   
+}
+.brain-part h1{
+   text-shadow:0px -5px 17px #ff3d91,4px 6px 0px #404f4d;
+
+
+
+   font-size:60px;
+}
+.under{
+   background: rgb(224,245,221);
+   background: linear-gradient(239deg, rgba(224,245,221,1) 0%, rgba(64,178,242,1) 43%, rgba(34,235,216,1) 55%, rgba(13,255,215,0.38699229691876746) 73%, rgba(93,255,228,0.38699229691876746) 80%, rgba(38,255,216,0) 92%);
+   height:2px;
+   
+}
+.brain-part2{background:#e6a2a4 ;
+color:white;}
+
+.brain-part2 p{
+
+
+
+   font-size: 16px;
+   
+}
+.brain-part2 img{ 
+   
+   height: 130px;
+   margin-left: 343px;
+   margin-top: -63px;
+   }
+   .interfacing:hover{
+
+      opacity:0.9;
+   }
+
+
+
+.interfacing{    background: #A7CEEF;
+   text-shadow:0px -5px 17px #00fffb,4px 6px 0px #3e6661;
+
+
+
+}
+.interfacing h1{ 
+            text-align: -50px;
+            font-size: 400%;
+            color: white;
+}
+
+.interfacing img{ 
+    height: 200px;
+    width: 75%;
+ 
+    margin-left:auto;
+}
+
+.white-line {
+    width: 100%;
+    height: 3px;
+    
+    background: rgb(224,245,221);
+    background: linear-gradient(239deg, rgba(224,245,221,1) 0%, rgba(64,178,242,1) 43%, rgba(34,235,216,1) 55%, rgba(13,255,215,0.38699229691876746) 73%, rgba(93,255,228,0.38699229691876746) 80%, rgba(38,255,216,0) 92%);
+}
+
+
+.para{
+    background: #A7CEEF;
+    color:white;
+    
+}
+
+.para:hover{
+  opacity: 0.9;
+}
+.para img{ 
+    height: 180px;
+    width:57%;
+   margin-left: 190px;
+}
+.para p{
+
+   padding: 10px;
+}
+
+
+           
+.neurosystem{
+   background:white;
+   
+}       
+.neurosystem h1{
+   font-family: helventica;
+}
+         
+.neurosystem p{
+   
+   font-family: arial;
+   
+   -webkit-box-shadow:0px 0px 50px 30px #bdc4ff inset;
+-moz-box-shadow:0px 0px 50px 30px #bdc4ff inset;
+box-shadow:0px 0px 50px 30px #bdc4ff inset;
+
+
+   
+
+}
+.neurosystem img{
+
+
+   margin-top: 50px;
+}
+
+.neurosystem2{
+
+   background: white;
+   font-family: helvetice;
+}
+.neurosystem2 img{
+
+   margin-left: 509px;
+   margin-top: -2px;
+}
+.neurosystem2 h1{
+  
+   font-size: 35px;
+}
+       .neurosystem2 p{
+
+         font-family:arial;
+         
+   
+   -webkit-box-shadow:0px 0px 50px 30px #bdc4ff inset;
+   -moz-box-shadow:0px 0px 50px 30px #bdc4ff inset;
+   box-shadow:0px 0px 50px 30px #bdc4ff inset;
+
+       }  
+       
+       .neurosystem3{
+
+
+         background: white;
+         padding-bottom:70px;
+
+         
+
+       }
+       .neurosystem3 h1{
+         
+         font-family: helventica;
+         padding-left: 30px;
+         padding-top: 190px;
+         
+       }
+       .neurosystem3 p{
+         font-family:arial;
+
+         
+   
+         -webkit-box-shadow:0px 0px 50px 30px #bdc4ff inset;
+         -moz-box-shadow:0px 0px 50px 30px #bdc4ff inset;
+         box-shadow:0px 0px 30px 20px #bdc4ff inset;
+         padding-left:20px;
+         
+       }
+       .neurosystem3 img{
+
+
+         margin-top: -10px;
+         margin-left: -182px;
+         position: relative;
+       }
+       
+       
+      
+       .hrt{
+
+         height:3px;
+
+         background: rgb(224,245,221);
+         background: linear-gradient(239deg, rgba(224,245,221,1) 0%, rgba(64,178,242,1) 43%, rgba(34,235,216,1) 55%, rgba(13,255,215,0.38699229691876746) 73%, rgba(93,255,228,0.38699229691876746) 80%, rgba(38,255,216,0) 92%);         width:1200px;
+         margin-left:100px;
+       }
+
+       .learnmore{
+         padding-bottom: 50px;
+       }
+      
+       .pkl1{
+
+         height:3px;
+
+         background: rgb(224,245,221);
+         background: linear-gradient(239deg, rgba(224,245,221,1) 0%, rgba(64,178,242,1) 43%, rgba(34,235,216,1) 55%, rgba(13,255,215,0.38699229691876746) 73%, rgba(93,255,228,0.38699229691876746) 80%, rgba(38,255,216,0) 92%);         width:1200px;
+         
+         padding-bottom: 3px;
+         margin-left: -120px;
+         margin-top: 40px;
+         width:1300px;
+       }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+   html {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      box-sizing: inherit;
+      
+   }
+   .tilt {
+      box-shadow: 0 20px 27px rgba(0, 0, 0, 0.05);
+      transform-style: preserve-3d;
+      margin: 50px auto;
+      
+
+   }
+   
+   
+   .tilt-logo-inner {
+      transform: translateZ(50px) translateY(-50%) translateX(-50%);
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      color: white;
+      font-size: 1.9rem;
+      
+   }
+   
+   .tilt-movie, .tilt-movie img {
+      width: 600px;
+      height: 500px;
+      text-shadow:0px 5px 10px #000000;
+
+      
+   }
+   
+
+
+
+
+.row.heading h2 {
+    color: #fff;
+    font-size: 52.52px;
+    line-height: 95px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 40px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+ul{
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.heading.heading-icon {
+    display: block;
+}
+.padding-lg {
+	display: block;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.practice-area.padding-lg {
+    padding-bottom: 55px;
+    padding-top: 55px;
+}
+.practice-area .inner{ 
+     border:1px solid #999999; 
+	 text-align:center; 
+	 margin-bottom:28px; 
+	 padding:40px 25px;
+}
+.our-webcoderskull .cnt-block:hover {
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+    border: 0;
+}
+.practice-area .inner h3{ 
+    color:#3c3c3c; 
+	font-size:24px; 
+	font-weight:500;
+	font-family: 'Poppins', sans-serif;
+	padding: 10px 0;
+}
+.practice-area .inner p{ 
+    font-size:14px; 
+	line-height:22px; 
+	font-weight:400;
+}
+.practice-area .inner img{
+	display:inline-block;
+}
+
+.writtingarea p{
+   
+   font-family: Verdana;
+
+
+ 
+}
+.writtingarea h4{
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.last{
+   background: #e7c6a0;
+   color:white;
+   padding-top: 20px;
+}
+
+   .last img{
+      width:50%;
+      margin-top: -5px;
+   }
+.last ul{
+
+
+   padding-left:80px;
+}
+.last a{
+   color:white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
